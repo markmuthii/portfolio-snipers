@@ -4,4 +4,4 @@ This is a project created to demonstrate practically the deployment process with
 
 [Live demo here](https://portfolio-snipers.vercel.app/)
 
-<a href="https://portfolio-snipers.vercel.app/">HTML Anchor</a>
+<a href="https://portfolio-snipers.vercel.app/" target="_blank">HTML Anchor</a>
